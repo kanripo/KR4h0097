@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 三華集
-#+DATE: 2020-03-31 11:42:29.760034
+#+DATE: 2020-03-31 11:42:29.936363
 #+PROPERTY: ID KR4h0097
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 7
 <pb:KR4h0097_WYG_007-1a>¶
 　　欽定四庫全書¶
@@ -372,7 +372,7 @@
 郸淳作碑蔡邕題其後曰黄絹幼婦外孫虀臼○楊脩見之曰此乃絶妙好辭也)¶
 ¶
 <pb:KR4h0097_WYG_007-15b>¶
-　　膓斷春江欲暮時青山如髻栁如眉寂&KR0705;往事無人問¶
+　　膓斷春江欲暮時青山如髻栁如眉寂寥往事無人問¶
 絶妙空傳八字碑¶
 ¶
 ¶

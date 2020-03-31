@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 三華集
-#+DATE: 2020-03-31 11:42:29.744193
+#+DATE: 2020-03-31 11:42:29.919454
 #+PROPERTY: ID KR4h0097
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 5
 <pb:KR4h0097_WYG_005-1a>¶
 　　欽定四庫全書¶
@@ -278,7 +278,7 @@
 者二十年施報競往還相見不越月在公禮尤繁後者¶
 二十載寂若無相關盖因兵㐫餘吾家實凋殘公得屯¶
 而亨我方否而艱雲泥既異途其理不可攀静思宿昔¶
-&KR0172;令人發長嘆此理今古共此操今古彈所以管鮑交¶
+歡令人發長嘆此理今古共此操今古彈所以管鮑交¶
 世獨美其難寄詩用調笑君其勿厚顔¶
 ¶
 <pb:KR4h0097_WYG_005-12b>¶
